@@ -1,1 +1,2 @@
 # integrating-data-from-diff-srces
+Specific Data regarding the houses in Victoria such as number of rooms, location, distance from train station, schools in the area, etc from different files within the data set are extracted and integrated into a single file. Some of the additional information that is relevant to the houses was scrapped from the web and integrated into the file. Different types of transformation methods such as min-max, log, power and root transformation methods are applied on to the data and linear models were built.
